@@ -1,0 +1,13 @@
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\bin\Debug\AdministrarWIFI.exe.config
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\bin\Debug\AdministrarWIFI.exe
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\bin\Debug\AdministrarWIFI.pdb
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\bin\Debug\AdministrarWIFI.xml
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.vbproj.AssemblyReference.cache
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.frmAdministrarWIFI.resources
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.frmCrearPerfil.resources
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.Resources.resources
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.vbproj.GenerateResource.cache
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.vbproj.CoreCompileInputs.cache
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.exe
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.xml
+C:\Users\Lucas Cano\source\repos\NET\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.pdb

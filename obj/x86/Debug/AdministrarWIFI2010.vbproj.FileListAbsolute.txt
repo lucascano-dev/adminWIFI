@@ -1,0 +1,12 @@
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.Resources.resources
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\bin\Debug\AdministrarWIFI2010.exe
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\bin\Debug\AdministrarWIFI2010.pdb
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\bin\Debug\AdministrarWIFI2010.xml
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI2010.exe
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI2010.xml
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI2010.pdb
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.frmAdministrarWIFI.resources
+D:\Documentos\Informática, Nube, Programación, Web\Programación\API Wireless\AdministrarWIFI2010\AdministrarWIFI2010\obj\x86\Debug\AdministrarWIFI.frmCrearPerfil.resources
